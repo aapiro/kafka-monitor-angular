@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.kafka.monitor",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "monolith",
+    "baseName": "KafkaMonitor",
+    "packageName": "com.kafka.monitor",
+    "packageFolder": "com/kafka/monitor",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDMxNmU5YTVjZDNjYmM4YTkwNTU4OTVhYzMzNTFmY2VhMmVjZjU5OWM4OTNmMmZmMDMyY2E5NzM4N2M3MDdmY2MwNzVjYzEzZGFhNDI3NWE1NjJkMGE2ZDM5Mzg0OWI3ZTBjYTRjMWNjODI3YzIyY2E1YzY5ZTRiMmEyMmUzNzA=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1583174427106,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": ["es", "en"],
+    "blueprints": []
+  }
+}
